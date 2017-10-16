@@ -1,4 +1,4 @@
-<img src="http://joinbrink.com/assets/images/repo/Brink.png"><img src="http://joinbrink.com/assets/images/repo/Python-logo.png">
+<img src="http://joinbrink.com/assets/images/repo/Brink.png?"><img src="http://joinbrink.com/assets/images/repo/Python-logo.png">
 
 Install the Python Package
 -------------------------
